@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/travel-app/static/css/main.26672cd7.css",
+    "main.js": "/travel-app/static/js/main.e0e9a13a.js",
+    "static/media/Fuji.png": "/travel-app/static/media/Fuji.a2399108f0df69f29488.png",
+    "index.html": "/travel-app/index.html",
+    "main.26672cd7.css.map": "/travel-app/static/css/main.26672cd7.css.map",
+    "main.e0e9a13a.js.map": "/travel-app/static/js/main.e0e9a13a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26672cd7.css",
+    "static/js/main.e0e9a13a.js"
+  ]
+}

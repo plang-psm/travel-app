@@ -1,5 +1,51 @@
-# Getting Started with Create React App
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
+
+<div align='center'>
+    <h1>Travel App</h1>
+    <p>A Travel App to document where I have traveled. Built with React, and CSS.</p>
+        <a href='https://www.linkedin.com/in/plang-psm/' target='_blank'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn tag" /></a>
+</div>
+
+
+## Table of Contents
+* [Description](#description)
+* [Technologies](#technologies)
+* [Road Map](#road-map)
+* [Launch](#launch)
+* [Contact](#contact)
+* [Resources](#resources)
+
+![travel-app](https://user-images.githubusercontent.com/101952500/186004909-4027ac80-7266-4ad4-aad6-28a43b1fbacc.jpg)
+
+
+## Description
+The Travel App is a static web application that displays the places I have visited. This project was a training exercise to reinforce React's component style of building an application.
+
+## Technologies
+* <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React tag"  />
+* <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS tag"  />
+
+
+## Road Map
+- [ ] Responsive design.
+- [ ] User friendly
+  - [ ] Add button
+  - [ ] Delete button
+  - [ ] Edit button
+  - [ ] Local storage for user
+
+## Launch
+You can open the project here:
+[Travel app](https://plang-psm.github.io/travel-app/)
+ or
+ 
+<details>
+<summary>Launch</summary>
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +114,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# meme-generator
+</details>
+
+## Contact
+<a href='https://www.linkedin.com/in/plang-psm/' target='_blank'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn tag" /></a>
+
+## Resources
+Badges: <a href='https://github.com/Ileriayo/markdown-badges' target='_blank'>Copyright (c) 2020 Ileriayo Adebiyi</a>
+
+Header and Layout: <a href='https://github.com/othneildrew/Best-README-Template' target='_blank'>Copyright (c) 2021 Othneil Drew</a>
+
+[contributors-shield]: https://img.shields.io/github/contributors/plang-psm/dice-game.svg?style=for-the-badge
+[contributors-url]: https://github.com/plang-psm/dice-game/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/plang-psm/dice-game.svg?style=for-the-badge
+[forks-url]: https://github.com/plang-psm/dice-game/network/members
+[stars-shield]: https://img.shields.io/github/stars/plang-psm/dice-game.svg?style=for-the-badge
+[stars-url]: https://github.com/plang-psm/dice-game/stargazers
+[issues-shield]: https://img.shields.io/github/issues/plang-psm/dice-game.svg?style=for-the-badge
+[issues-url]: https://github.com/plang-psm/dice-game/issues
